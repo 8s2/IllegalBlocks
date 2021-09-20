@@ -1,0 +1,6 @@
+{
+  "parent": "illegal:block/template_orientable_trapdoor_open_thickness_5",
+  "textures": {
+    "texture": "minecraft:block/birch_trapdoor"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "block.illegal.salb": "Salb",
+  "block.illegal.stone_chunk": "Stone Chunk",
+  "block.illegal.stone_fragment": "Stone Fragment",
+  "block.illegal.stone_bit": "Stone Bit",
+  "block.illegal.stone_iota": "Stone Iota",
+  "block.illegal.stone_particle": "Stone Particle",
+  "block.illegal.stone_crumb": "Stone Crumb",
+  "block.illegal.stone_dot": "Stone Dot",
+  "item.illegal.wrench": "Wrench"
+}

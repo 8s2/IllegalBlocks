@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "illegal:stone_bit"
+  },
+  "result": "illegal:stone_iota",
+  "count": 8
+}

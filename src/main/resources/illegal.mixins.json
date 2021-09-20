@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "eightsidedsquare.Illegal.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+  ],
+  "client": [
+    "TrapdoorBlockMixin",
+    "PickaxeMixin",
+    "FenceBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

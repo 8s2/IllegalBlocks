@@ -1,0 +1,304 @@
+{
+  "variants": {
+    "facing=east,half=bottom,open=false,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_bottom",
+      "y": 90
+    },
+    "facing=east,half=bottom,open=true,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_open",
+      "y": 90
+    },
+    "facing=east,half=top,open=false,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_top",
+      "y": 90
+    },
+    "facing=east,half=top,open=true,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_open",
+      "y": 90
+    },
+    "facing=north,half=bottom,open=false,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_bottom"
+    },
+    "facing=north,half=bottom,open=true,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_open"
+    },
+    "facing=north,half=top,open=false,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_top"
+    },
+    "facing=north,half=top,open=true,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_open"
+    },
+    "facing=south,half=bottom,open=false,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_bottom",
+      "y": 180
+    },
+    "facing=south,half=bottom,open=true,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_open",
+      "y": 180
+    },
+    "facing=south,half=top,open=false,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_top",
+      "y": 180
+    },
+    "facing=south,half=top,open=true,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_open",
+      "y": 180
+    },
+    "facing=west,half=bottom,open=false,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_bottom",
+      "y": 270
+    },
+    "facing=west,half=bottom,open=true,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_open",
+      "y": 270
+    },
+    "facing=west,half=top,open=false,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_top",
+      "y": 270
+    },
+    "facing=west,half=top,open=true,thickness=1": {
+      "model": "minecraft:block/acacia_trapdoor_open",
+      "y": 270
+    },
+    "facing=east,half=bottom,open=false,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_2",
+      "y": 90
+    },
+    "facing=east,half=bottom,open=true,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_2",
+      "y": 90
+    },
+    "facing=east,half=top,open=false,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_2",
+      "y": 90
+    },
+    "facing=east,half=top,open=true,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_2",
+      "y": 90
+    },
+    "facing=north,half=bottom,open=false,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_2"
+    },
+    "facing=north,half=bottom,open=true,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_2"
+    },
+    "facing=north,half=top,open=false,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_2"
+    },
+    "facing=north,half=top,open=true,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_2"
+    },
+    "facing=south,half=bottom,open=false,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_2",
+      "y": 180
+    },
+    "facing=south,half=bottom,open=true,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_2",
+      "y": 180
+    },
+    "facing=south,half=top,open=false,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_2",
+      "y": 180
+    },
+    "facing=south,half=top,open=true,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_2",
+      "y": 180
+    },
+    "facing=west,half=bottom,open=false,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_2",
+      "y": 270
+    },
+    "facing=west,half=bottom,open=true,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_2",
+      "y": 270
+    },
+    "facing=west,half=top,open=false,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_2",
+      "y": 270
+    },
+    "facing=west,half=top,open=true,thickness=2": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_2",
+      "y": 270
+    },
+    "facing=east,half=bottom,open=false,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_3",
+      "y": 90
+    },
+    "facing=east,half=bottom,open=true,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_3",
+      "y": 90
+    },
+    "facing=east,half=top,open=false,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_3",
+      "y": 90
+    },
+    "facing=east,half=top,open=true,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_3",
+      "y": 90
+    },
+    "facing=north,half=bottom,open=false,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_3"
+    },
+    "facing=north,half=bottom,open=true,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_3"
+    },
+    "facing=north,half=top,open=false,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_3"
+    },
+    "facing=north,half=top,open=true,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_3"
+    },
+    "facing=south,half=bottom,open=false,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_3",
+      "y": 180
+    },
+    "facing=south,half=bottom,open=true,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_3",
+      "y": 180
+    },
+    "facing=south,half=top,open=false,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_3",
+      "y": 180
+    },
+    "facing=south,half=top,open=true,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_3",
+      "y": 180
+    },
+    "facing=west,half=bottom,open=false,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_3",
+      "y": 270
+    },
+    "facing=west,half=bottom,open=true,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_3",
+      "y": 270
+    },
+    "facing=west,half=top,open=false,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_3",
+      "y": 270
+    },
+    "facing=west,half=top,open=true,thickness=3": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_3",
+      "y": 270
+    },
+    "facing=east,half=bottom,open=false,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_4",
+      "y": 90
+    },
+    "facing=east,half=bottom,open=true,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_4",
+      "y": 90
+    },
+    "facing=east,half=top,open=false,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_4",
+      "y": 90
+    },
+    "facing=east,half=top,open=true,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_4",
+      "y": 90
+    },
+    "facing=north,half=bottom,open=false,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_4"
+    },
+    "facing=north,half=bottom,open=true,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_4"
+    },
+    "facing=north,half=top,open=false,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_4"
+    },
+    "facing=north,half=top,open=true,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_4"
+    },
+    "facing=south,half=bottom,open=false,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_4",
+      "y": 180
+    },
+    "facing=south,half=bottom,open=true,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_4",
+      "y": 180
+    },
+    "facing=south,half=top,open=false,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_4",
+      "y": 180
+    },
+    "facing=south,half=top,open=true,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_4",
+      "y": 180
+    },
+    "facing=west,half=bottom,open=false,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_4",
+      "y": 270
+    },
+    "facing=west,half=bottom,open=true,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_4",
+      "y": 270
+    },
+    "facing=west,half=top,open=false,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_4",
+      "y": 270
+    },
+    "facing=west,half=top,open=true,thickness=4": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_4",
+      "y": 270
+    },
+    "facing=east,half=bottom,open=false,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_5",
+      "y": 90
+    },
+    "facing=east,half=bottom,open=true,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_5",
+      "y": 90
+    },
+    "facing=east,half=top,open=false,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_5",
+      "y": 90
+    },
+    "facing=east,half=top,open=true,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_5",
+      "y": 90
+    },
+    "facing=north,half=bottom,open=false,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_5"
+    },
+    "facing=north,half=bottom,open=true,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_5"
+    },
+    "facing=north,half=top,open=false,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_5"
+    },
+    "facing=north,half=top,open=true,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_5"
+    },
+    "facing=south,half=bottom,open=false,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_5",
+      "y": 180
+    },
+    "facing=south,half=bottom,open=true,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_5",
+      "y": 180
+    },
+    "facing=south,half=top,open=false,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_5",
+      "y": 180
+    },
+    "facing=south,half=top,open=true,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_5",
+      "y": 180
+    },
+    "facing=west,half=bottom,open=false,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_bottom_thickness_5",
+      "y": 270
+    },
+    "facing=west,half=bottom,open=true,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_5",
+      "y": 270
+    },
+    "facing=west,half=top,open=false,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_top_thickness_5",
+      "y": 270
+    },
+    "facing=west,half=top,open=true,thickness=5": {
+      "model": "illegal:block/acacia_trapdoor_open_thickness_5",
+      "y": 270
+    }
+  }
+}

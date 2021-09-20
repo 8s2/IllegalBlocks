@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "illegal",
+  "version": "${version}",
+
+  "name": "Illegal Building Techniques Mod",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "Me!"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/illegal/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "eightsidedsquare.Illegal.IllegalMod"
+    ],
+    "client": [
+      "eightsidedsquare.Illegal.client.IllegalClient"
+    ]
+  },
+  "mixins": [
+    "illegal.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

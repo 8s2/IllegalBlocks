@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "illegal:stone_particle"
+  },
+  "result": "illegal:stone_crumb",
+  "count": 8
+}

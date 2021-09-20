@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "illegal:block/salb"
+    },
+    "type=double": {
+      "model": "illegal:block/salb_double"
+    },
+    "type=top": {
+      "model": "illegal:block/salb_top"
+    }
+  }
+}
